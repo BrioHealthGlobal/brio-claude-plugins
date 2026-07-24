@@ -1,0 +1,14 @@
+{
+  "name": "brio-tools",
+  "owner": {
+    "name": "Aaron Rosales"
+  },
+  "description": "Brio Health Global's internal Claude plugins.",
+  "plugins": [
+    {
+      "name": "brio-brand-skills",
+      "source": "./plugins/brio-brand-skills",
+      "description": "Brio's brand voice, audience, positioning, and visual skills backed by a live shared Google Doc source of truth, plus M&E report drafting."
+    }
+  ]
+}
