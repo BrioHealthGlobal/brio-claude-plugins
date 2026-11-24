@@ -1,0 +1,13 @@
+{
+  "extraKnownMarketplaces": {
+    "pr-style": {
+      "source": {
+        "source": "github",
+        "repo": "airos21/pr-style"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "pr-style@pr-style": true
+  }
+}
